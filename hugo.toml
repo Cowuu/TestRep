@@ -1,6 +1,6 @@
 baseURL = 'https://cowuu.github.io/TestRep/'
 languageCode = 'ru-ru'
-title = 'Мое Портфолио'
+title = 'Портфолио | Фатьянов Максим'
 theme = 'ananke'
 
 [params]
